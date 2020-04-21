@@ -21,3 +21,5 @@ dependencies:
 #- condition: chartmuseum.enabled
 #  name: chartmuseum
 #  repository: http://chartmuseum.jenkins-x.io
+- name: jx-app-ui
+  repository: http://chartmuseum.jenkins-x.io
